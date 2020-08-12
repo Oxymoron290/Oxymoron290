@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Upgrading my Anet A8, Building Automated Quadcopters, and writing software for @TSSands
-- 🌱 I’m currently learning Alegbra at [TCC](tccd.edu) and DevOps.
+- 🌱 I’m currently learning History and Government at [TCC](tccd.edu) and DevOps.
 - 👯 I’m looking to collaborate on anything related to Avitation, or Logistics.
 
 http://TimothySturm.com/
