@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Upgrading my Anet A8, Building Automated Quadcopters, and writing software for @TSSands
-- 🌱 I’m currently learning History and Government at [TCC](tccd.edu) and DevOps.
-- 👯 I’m looking to collaborate on anything related to Avitation, or Logistics.
+- 🔭 I’m currently working on Upgrading my Anet A8, Building Automated Quadcopters, and writing highly performant Microservices
+- 🌱 I’m currently learning Government at [TCC](tccd.edu) and DevOps. I recently obtains my AWS Certification
+- 👯 I’m looking to collaborate on anything related to Avitation, Manufacturing, or Logistics.
 
 http://TimothySturm.com/
 
