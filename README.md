@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Upgrading my Anet A8, Building Automated Quadcopters, and writing highly performant Microservices
-- 🌱 I’m currently learning Government at [TCC](tccd.edu) and DevOps. I recently obtains my AWS Certification
+- 🌱 I’m currently studying Calculus and Writing at [TCC](tccd.edu).
+- ⚡ I'm practicing DevOps at [Fairway Independent Mortgage Corporation](https://www.fairwayindependentmc.com/).
 - 👯 I’m looking to collaborate on anything related to Avitation, Manufacturing, or Logistics.
 
 http://TimothySturm.com/
