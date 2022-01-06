@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Upgrading my Anet A8, Building Automated Quadcopters, and writing highly performant Microservices
-- 🌱 I’m currently studying Amature Radio. My call sign is [N5OXY](https://www.qrz.com/db/n5oxy)
+- 🔭 I’m currently writing highly performant Microservices, desigining a [video game](https://game.timothysturm.com/), and contributing to the steam workshop.
+- 🌱 I’m currently studying Calculus and Art Appreciation at [TCC](https://www.tccd.edu/).
 - ⚡ I'm practicing DevOps at [Fairway Independent Mortgage Corporation](https://www.fairwayindependentmc.com/).
 - 👯 I’m looking to collaborate on anything related to Avitation, Manufacturing, or Logistics.
+- ⚡ Fun fact: I'm a licensed Amateur Radio Operator. My call sign is [N5OXY](https://www.qrz.com/db/n5oxy).
 
 http://TimothySturm.com/
 
