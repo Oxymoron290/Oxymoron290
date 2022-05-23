@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently writing highly performant Microservices, desigining a [video game](https://game.timothysturm.com/), and contributing to the steam workshop.
-- 🌱 I’m currently studying Calculus and Art Appreciation at [TCC](https://www.tccd.edu/).
+- 🌱 I’m currently studying Kubernetes and AKS at [Microsoft](https://microsoft.com/).
 - ⚡ I'm engineering at [Microsoft](https://microsoft.com/).
 - 👯 I’m looking to collaborate on anything related to Avitation, Manufacturing, or Logistics.
 - ⚡ Fun fact: I'm a licensed Amateur Radio Operator. My call sign is [N5OXY](https://www.qrz.com/db/n5oxy).
