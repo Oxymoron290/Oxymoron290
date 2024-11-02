@@ -1,0 +1,456 @@
+{
+  "basics": {
+    "name": "Timothy Justin Sturm",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "timothysturm6@gmail.com",
+    "url": "https://timothysturm.com",
+    "summary": "Experienced Software Engineer with a demonstrated history in developing, managing, and deploying full-stack applications across diverse industries. Skilled in .NET, C#, JavaScript, and cloud technologies like Azure and AWS. Adept at leading projects through all phases of the software lifecycle, from design and implementation to maintenance and scaling. Known for solving complex problems with a strategic approach and strong technical insight. Passionate about leveraging technology to create scalable solutions that meet both user needs and business goals.",
+    "location": {
+      "postalCode": "76022",
+      "city": "Bedford",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "timothy290",
+        "url": "https://www.linkedin.com/in/timothy290/"
+      },
+      {
+        "network": "X",
+        "username": "Oxymoron290",
+        "url": "https://x.com/Oxymoron290"
+      },
+      {
+        "network": "GitHub",
+        "username": "Oxymoron290",
+        "url": "https://github.com/oxymoron290"
+      },
+      {
+        "network": "Facebook",
+        "username": "oxy290",
+        "url": "https://www.facebook.com/oxy290"
+      },
+      {
+        "network": "Steam",
+        "username": "Oxymoron",
+        "url": "https://steamcommunity.com/id/oxy290"
+      },
+      {
+        "network": "Reddit",
+        "username": "Oxymoron290",
+        "url": "https://www.reddit.com/user/Oxymoron290/"
+      },
+      {
+        "network": "Discord",
+        "username": "Oxymoron",
+        "url": "https://discordapp.com/users/146022309247844353"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DBA Excess Enterprises",
+      "location": "Euless, Texas",
+      "position": "Junior Technician",
+      "startDate": "2009-03-02",
+      "endDate": "2009-06-06",
+      "summary": "Starting out as a janitor of sorts, I quickly proved to the senior technician my capabilities with computer hardware. Once the owner and manager were both confident with my skills they allowed me the position of Junior Technician, where I had the responsibilities of preforming hardware repairs to computer systems as well as minor software fixes.",
+      "highlights": [
+        "First technology oriented job"
+      ]
+    },
+    {
+      "name": "InSource, Inc.",
+      "location": "Las Colinas, Irving, Texas",
+      "position": "Technician",
+      "url": "https://insourcenow.com/",
+      "startDate": "2011-05-01",
+      "endDate": "2011-07-01",
+      "summary": "Data and operating system migrations for clients and servers.",
+      "highlights": []
+    },
+    {
+      "name": "Meggatel, Inc.",
+      "location": "Las Colinas, Irving, Texas",
+      "position": "Web Designer",
+      "url": "https://meggatel.com",
+      "startDate": "2011-08-01",
+      "endDate": "2011-10-01",
+      "summary": "Designed and implemented the website hosted at http://www.meggatel.com/ from August 2011 to August 2012",
+      "highlights": []
+    },
+    {
+      "name": "Telvista Inc.",
+      "location": "Las Colinas, Irving, Texas",
+      "position": "Technical Support Associate",
+      "url": "https://www.telvista.com/",
+      "startDate": "2012-06-01",
+      "endDate": "2012-08-01",
+      "summary": "Providing quick and efficient technical support to residential customers of Verizon FiOS triple-play.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Verifly Data Corporation",
+      "location": "Las Colinas, Irving, Texas",
+      "position": "Systems Administrator",
+      "url": "https://verifly-data.com",
+      "startDate": "2012-09-01",
+      "endDate": "2013-06-01",
+      "summary": "While working for a startup company, my main duties included the implementation and maintenance of the company's network and server systems. Being the primary technician responsible for Windows and Linux server systems, networking equipment, telephone equipment, workstations, Virtual Machines etc. this also made me a primary contact for after-hour escalation of critical system outage.",
+      "highlights": [
+        "Dell Poweredge",
+        "HP Proliant",
+        "Windows Server 2008 R2",
+        "Windows Server 2012",
+        "Microsoft SQL Server 2012",
+        "IIS 7.0",
+        "Linux",
+        "Asterisk PBX",
+        "Sonicwall"
+      ]
+    },
+    {
+      "name": "9Bands",
+      "location": "Las Colinas, Irving, Texas",
+      "position": ".NET Developer",
+      "url": "https://company.com",
+      "startDate": "2012-11-01",
+      "endDate": "2013-06-01",
+      "summary": "Developed a Service Oriented Architecture .NET application (using MVC, WCF, and Entity Framework) that connected to a Cloud Communications platform, such as Twilio or Plivo, via an API in order to complete automated telephone calls. This IVR was able to service telecom customers, providing them with requested information on their account, such as their account balance and service expiration dates. The IVR had the capability to increase the customer’s account balance when provided a credit card. Other projects included console apps, win forms apps, and WCF services, for use with data management on these customer's accounts.",
+      "highlights": [
+        ".NET Framework", 
+        "C#", 
+        "WCF", 
+        "ASP.NET", 
+        "MVC", 
+        "WPF", 
+        "nServiceBus", 
+        "Entity Framework", 
+        "Unity IoC container", 
+        "Microsoft SQL", 
+        "Bootstrap", 
+        "jQuery", 
+        "LINQ", 
+        "MySQL",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Dr SmartPhones, Inc.",
+      "location": "McKinney, Texas",
+      "position": ".NET Developer",
+      "url": "https://drsmartphones.com",
+      "startDate": "2013-08-01",
+      "endDate": "2013-12-01",
+      "summary": "Developed Multiple SOA .NET applications using MVC, WCF, and Entity Framework. The applications include a wholesale eCommerce portal, a franchise application portal, and an RMA portal.",
+      "highlights": [
+        ".NET Framework", 
+        "C#", 
+        "WCF", 
+        "ASP.NET", 
+        "MVC", 
+        "WPF", 
+        "nServiceBus", 
+        "Entity Framework", 
+        "Unity IoC container", 
+        "Microsoft SQL", 
+        "Bootstrap", 
+        "jQuery", 
+        "LINQ", 
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Allflex USA",
+      "location": "Dallas/Fort Worth Area, Texas",
+      "position": ".NET Software Developer",
+      "url": "https://allflexusa.com",
+      "startDate": "2013-12-21",
+      "endDate": "2016-05-19",
+      "summary": "Full stack development. Developed and maintained the main line of business application. It provided sales order processing platform for customer service to place orders, facilitated manufacturing by our production team, and allowed for dispatching and shipping with our warehouse team. We manufactured Livestock identification tags that could be etched with lasers, printed on with ink, or programmed via RFID. Accuracy of data was crucial to the success of the company. Additional to this internal software, is an external 3rd party API, allowing our customer to query our products, and place orders to us directly.",
+      "highlights": [
+        ".NET Framework", 
+        "C#", 
+        "WCF", 
+        "ASP.NET", 
+        "MVC", 
+        "WPF", 
+        "nServiceBus", 
+        "Entity Framework", 
+        "Unity IoC container", 
+        "Microsoft SQL", 
+        "Bootstrap", 
+        "jQuery", 
+        "LINQ", 
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Allflex USA",
+      "location": "Dallas/Fort Worth Area, Texas",
+      "position": "Sr. .NET Software Developer",
+      "url": "https://allflexusa.com",
+      "startDate": "2016-05-19",
+      "endDate": "2017-09-27",
+      "summary": "Full stack development. Developed and maintained the main line of business application. It provided sales order processing platform for customer service to place orders, facilitated manufacturing by our production team, and allowed for dispatching and shipping with our warehouse team. We manufactured Livestock identification tags that could be etched with lasers, printed on with ink, or programmed via RFID. Accuracy of data was crucial to the success of the company. Additional to this internal software, is an external 3rd party API, allowing our customer to query our products, and place orders to us directly.",
+      "highlights": [
+        "Javascript",
+        "C#",
+        "Java",
+        "PHP",
+        ".NET Framework 4.5+",
+        "RESTful web services",
+        "MSSQL",
+        "MySQL",
+        "Azure DevOps",
+        "GIT", "shell",
+        "powershell",
+        "Microsoft Dynamics GP",
+        "Dynamics 365"
+      ]
+    },
+    {
+      "name": "Allflex USA",
+      "location": "Dallas/Fort Worth Area, Texas",
+      "position": "Interim IT Manager",
+      "url": "https://company.com",
+      "startDate": "2016-12-05",
+      "endDate": "2017-09-27",
+      "summary": "Managing all North American IT operations to meet the business requirements. Support, plan and develop line of business application projects. Maintain and evaluate infrastructure to ensure network and server availability with minimal outages.",
+      "highlights": [
+        "Javascript",
+        "C#",
+        "Java",
+        "PHP",
+        ".NET Framework 4.5+",
+        "RESTful web services",
+        "MSSQL",
+        "MySQL",
+        "Azure DevOps",
+        "GIT", "shell",
+        "powershell",
+        "Microsoft Dynamics GP",
+        "Dynamics 365"
+      ]
+    },
+    {
+      "name": "Allflex USA",
+      "location": "Dallas/Fort Worth Area, Texas",
+      "position": "IT Director",
+      "url": "https://company.com",
+      "startDate": "2017-09-27",
+      "endDate": "2018-10-25",
+      "summary": "Supported, planned and developed all applications in use by the business with a global team of developers. We maintained and evaluated infrastructure to ensure network and server availability with minimal outages. I also had the responsibility to report statuses to the business, keep them involved throughout the process, and adapt to changing business priorities. I accomplished this using Agile principles. I had responsibility for the full software development lifecycle. During this role, I maintained hands-on full stack development with the team where I developed several desktop applications, mobile app applications, database applications and APIs.",
+      "highlights": [
+        ".NET Framework",
+        ".NET Core",
+        "C#",
+        "Java",
+        "PHP",
+        "Javascript",
+        "NodeJS",
+        "Angular",
+        "ASP.NET",
+        "MVC",
+        "RESTful web services",
+        "MSSQL",
+        "MySQL",
+        "Redis",
+        "RabbitMQ",
+        "Amazon Web services",
+        "AWS",
+        "Microsoft Azure",
+        "Docker",
+        "Azure DevOps",
+        "Github",
+        "Jenkins",
+        "TeamCity",
+        "GIT",
+        "Domain Driven Design principles",
+        "event-driven architecture",
+        "microservices",
+        "shell",
+        "powershell",
+        "Microsoft Dynamics GP",
+        "Dynamics 365"
+      ]
+    },
+    {
+      "name": "Vivify Health",
+      "location": "Plano, Texas",
+      "position": "Software Developer",
+      "url": "https://www.vivifyhealth.com/",
+      "startDate": "2018-10-25",
+      "endDate": "2019-04-19",
+      "summary": "Innovated, created and maintained software for the entirety of Vivify Health’s full software offering. They have an Angular front end web portal, a C# .NET API backend using MSSQL server, a Native Android application, and a cordova ionic consumer app for IOS and Android. They specialize in remote patient monitoring where the patient can either be assigned a device, or use their own device to capture biometric data. The data is then centralized and presented to the caregivers via a web portal. This solution is complete with alerting and reporting.",
+      "highlights": [
+        ".NET Framework",
+        ".NET Core",
+        "C#",
+        "Java",
+        "JavaScript",
+        "NodeJS",
+        "AngularJS",
+        "Cordova Ionic",
+        "Android",
+        "Amazon Web Services",
+        "AWS",
+        "ASP.NET",
+        "MVC",
+        "RESTful web services",
+        "MSSQL",
+        "Jenkins",
+        "GIT",
+        "BitBucket",
+        "shell",
+        "powershell"
+      ]
+    },
+    {
+      "name": "TSS",
+      "location": "Fort Worth, Texas",
+      "position": "President",
+      "url": "https://tssands.com/",
+      "startDate": "2019-04-19",
+      "endDate": "2020-10-19",
+      "summary": "I participate in the full software development life cycle to provide logistics software to the business. This software is used by internal Dispatchers to coordinate field operations between Carriers, Drivers, Customers, and Operators. The stack consists of a web front end for administrative and dispatch operations, a react-native mobile app for use by the Drivers and Carriers, and a reporting & alerting system used by Customers and Stakeholders. I helped to create several microservices and containerize them into docker images. Images were deployed onto a Kubernetes cluster hosted on AWS.",
+      "highlights": [
+        ".NET Core",
+        "C#",
+        "Java",
+        "Kotlin",
+        "PHP",
+        "JavaScript",
+        "nodejs",
+        "React",
+        "React Native",
+        "ASP.NET",
+        "MVC",
+        "RESTful web services",
+        "temporal data aggregation",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "AWS SQS Queues",
+        "RabbitMQ",
+        "Amazon Web Services",
+        "AWS",
+        "Microsoft Azure",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "GitHub",
+        "Github Actions",
+        "GIT",
+        "Domain Driven Design principles",
+        "event-driven architecture",
+        "microservices",
+        "shell",
+        "powershell"
+      ]
+    },
+    {
+      "name": "Fairway Independent Mortgage Corporation",
+      "location": "Carrollton, Texas",
+      "position": "Senior Software Engineer",
+      "url": "https://www.fairway.com/",
+      "startDate": "2020-11-01",
+      "endDate": "2022-03-01"
+    },
+    {
+      "name": "Valid Cloud Solutions, LLC.",
+      "location": "Bedford, Texas",
+      "position": "Managing Member",
+      "url": "https://validcloud.solutions/",
+      "startDate": "2022-08-21"
+    },
+    {
+      "name": "Microsoft",
+      "location": "Las Colinas, Irving, Texas",
+      "position": "Senior Customer Engineer",
+      "url": "https://company.com",
+      "startDate": "2022-03-01",
+      "endDate": "2022-07-01"
+    },
+    {
+      "name": "Microsoft",
+      "location": "Las Colinas, Irving, Texas",
+      "position": "Senior Cloud Solution Architect",
+      "url": "https://company.com",
+      "startDate": "2022-07-01"
+    }
+  ],
+  "volunteer": [{
+    "organization": "Dallas Give Camp 2019",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2019-10-12",
+    "endDate": "2019-10-13",
+    "summary": "Supporting our communities by bringing together motivated volunteers to dedicate their professional expertise, deep insights, and individual talents to further the missions of local charitable organizations through the applied use of knowledge sharing, technology solutions, and innovative design"
+  }],
+  "education": [{
+    "institution": "University",
+    "url": "https://www.tccd.edu/",
+    "studyType": "Associate",
+    "startDate": "2020-01-01"
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [
+    {
+      "name": "Amateur Radio",
+      "keywords": [
+        "Ham Radio",
+        "SSB",
+        "FM",
+        "LSB",
+        "USB",
+        "CW",
+        "VHF",
+        "HF",
+        "UHF"
+      ]
+    }
+  ],
+  "references": [{
+    "name": "Jake Hudson",
+    "reference": "Tim is an extremely technically sophisticated and competent engineer. I’ve watched him deliver complex project after project with a completely remarkable attention to detail and breadth of knowledge across stacks. Architecting maintainable viable solutions that met business needs seemed to come naturally to him. From legacy work on WCF to brand new stacks like GraphQL, React and Angular one would be hard pressed to find an environment that Tim couldn’t immediately contribute in. 
+    He’s also well read, contributes to company culture, and is a pleasure to go fishing with, even in the middle of winter."
+  }],
+  "projects": [
+    {
+      "name": "Blue Ethics Project",
+      "startDate": "2022-07-22",
+      "description": "By utilizing a multi-faceted approach, including the analysis of complaints sustained and not sustained against law enforcement officers, and conducting in-depth investigations into cases of officer misconduct, this research project seeks to identify the root causes and contributing factors of such behavior. Through this analysis, the project aims to propose effective solutions for accountability and reform within law enforcement agencies, with the goal of promoting trust and legitimacy between law enforcement and the communities they serve.",
+      "highlights": [],
+      "url": "https://github.com/oxymoron290/blueethicsproject"
+    },
+    {
+      "name": "Flexus Strider",
+      "startDate": "2024-08-17",
+      "description": "The Flexus Strider project aims to develop a series of advanced hexapod robots through iterative improvements across multiple versions, each denoted by a 'Mark' designation. Starting from Mark I, which focuses on fundamental walking capabilities using off-the-shelf components, the project will evolve through stages, introducing custom designs, advanced motion techniques, AI and computer vision for navigation, and ultimately, a human-rideable version. The project's goals are to push the boundaries of current robotics technology, blending mechanical design with software intelligence to create versatile, capable machines that can navigate a variety of terrains and perform specific tasks, including carrying significant loads."
+    }
+  ]
+}
