@@ -5,7 +5,7 @@
     "image": "https://avatars.githubusercontent.com/u/2234419",
     "email": "timothysturm6@gmail.com",
     "url": "https://timothysturm.com",
-    "summary": "Experienced Software Engineer with a demonstrated history in developing, managing, and deploying full-stack applications across diverse industries. Skilled in .NET, C#, JavaScript, and cloud technologies like Azure and AWS. Adept at leading projects through all phases of the software lifecycle, from design and implementation to maintenance and scaling. Known for solving complex problems with a strategic approach and strong technical insight. Passionate about leveraging technology to create scalable solutions that meet both user needs and business goals.",
+    "summary": "Experienced Software Engineer with a demonstrated history in developing, managing, and deploying full-stack applications across diverse industries. Skilled in dotnet, JavaScript, and cloud technologies like Azure and AWS. Adept at leading projects through all phases of the software lifecycle, from design and implementation to maintenance and scaling. Known for solving complex problems with a strategic approach and strong technical insight. Passionate about leveraging technology to create scalable solutions that meet both user needs and business goals.",
     "location": {
       "postalCode": "76022",
       "city": "Bedford",
@@ -394,7 +394,7 @@
     "summary": "Supporting our communities by bringing together motivated volunteers to dedicate their professional expertise, deep insights, and individual talents to further the missions of local charitable organizations through the applied use of knowledge sharing, technology solutions, and innovative design"
   }],
   "education": [{
-    "institution": "University",
+    "institution": "Tarrant County Community College",
     "url": "https://www.tccd.edu/",
     "studyType": "Associate",
     "startDate": "2020-01-01"
@@ -405,15 +405,127 @@
     "issuer": "Company",
     "url": "https://certificate.com"
   }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
-  }],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Expert",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Angular",
+        "ASP.NET",
+        "MVC",
+        "WPF",
+        "Bootstrap",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Expert",
+      "keywords": [
+        "C#",
+        "Java",
+        "PHP",
+        "NodeJS",
+        ".NET Framework",
+        ".NET Core",
+        "Entity Framework",
+        "nServiceBus",
+        "WCF",
+        "RESTful APIs",
+        "Microservices",
+        "Domain Driven Design",
+        "Event-driven architecture"
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "Advanced",
+      "keywords": [
+        "Microsoft Azure",
+        "Azure DevOps",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Redis",
+        "RabbitMQ",
+        "Amazon SQS",
+        "Serverless Architecture"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "Expert",
+      "keywords": [
+        "Microsoft SQL Server",
+        "MySQL",
+        "PostgreSQL",
+        "MSSQL",
+        "Database Design",
+        "Data Aggregation",
+        "Entity Framework",
+        "SQL Queries",
+        "Indexing and Optimization"
+      ]
+    },
+    {
+      "name": "DevOps and CI/CD",
+      "level": "Advanced",
+      "keywords": [
+        "Azure DevOps",
+        "GitHub Actions",
+        "Jenkins",
+        "TeamCity",
+        "Git",
+        "PowerShell",
+        "Shell Scripting",
+        "Continuous Integration",
+        "Continuous Deployment",
+        "Infrastructure as Code"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Intermediate",
+      "keywords": [
+        "React Native",
+        "Cordova",
+        "Ionic",
+        "Android Development",
+        "Kotlin"
+      ]
+    },
+    {
+      "name": "Software Design and Architecture",
+      "level": "Expert",
+      "keywords": [
+        "Object-Oriented Design",
+        "SOLID Principles",
+        "Service-Oriented Architecture",
+        "Domain Driven Design",
+        "Event-driven architecture",
+        "Microservices",
+        "Agile Methodology",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "Project Management and Leadership",
+      "level": "Advanced",
+      "keywords": [
+        "Team Leadership",
+        "Project Management",
+        "Agile",
+        "Scrum",
+        "Client Communication",
+        "Stakeholder Engagement",
+        "Mentorship"
+      ]
+    }
+  ],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
