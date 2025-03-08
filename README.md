@@ -27,3 +27,20 @@ Here are some ideas to get you started:
 http://TimothySturm.com/
 
 [All my domains and profiles are tracked on KeyBase](https://keybase.io/oxymoron)
+
+## 🔏 My PGP Key
+
+You can download my public key here:
+[publickey.asc](./publickey.asc)
+
+**Key Fingerprint:** `2AF1 E427 ED58 3DB9 9360 1CB8 EC31 AC9F 7AC5 4E7D`
+
+### Verifying My Signed Files
+
+1. Obtain my public key
+   1. Option 1: Download [my public key](./publickey.asc) and Import it into GPG: `gpg --import publickey.asc`
+   2. Option 2: Receive the key from a public server `gpg --keyserver keyserver.ubuntu.com --recv-keys 7AC54E7D`
+2. Verify Files
+   1. If it is a separate document `gpg --verify filename.pdf.asc filename.pdf`
+   2. if it is embedded `gpg --verify filename.txt.asc`
+
