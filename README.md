@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 http://TimothySturm.com/
 
-[All my domains and profiles are tracked on KeyBase](https://keybase.io/oxymoron)
-
 ## 🔏 My PGP Key
 
 You can download my public key here:
