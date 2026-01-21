@@ -26,17 +26,17 @@ graph LR;
   B1-->B3[ENGL-2311 ✅]
   B1-->M1[⭐ HIST-1301 🔄]
   B1-->M2[⭐ HIST-1302 🔄]
-  A-->D[SPCH-1321 🔄💟]
+  A-->D[SPCH-1321 ✅]
   A-->E[GOVT-2305 ✅]
   A-->F[⭐ GOVT-2306 🔄]
   C5-->C7[MATH-2415 🔄]
-  A-->C1[MATH-0214 ✅]-->C2[MATH-1314 ✅]-->C3[MATH-2412 ✅]-->C4[MATH-2413 ✅]-->C5[MATH-2414 🔄]-->L2
+  A-->C1[MATH-0214 ✅]-->C2[MATH-1314 ✅]-->C3[MATH-2412 ✅]-->C4[MATH-2413 ✅]-->C5[MATH-2414 🔄💟]-->L2
   C4-->C6[MATH-2305 🔄]
-  C4-->L1[⭐ PHYS-2425 🔄]-->L2[⭐ PHYS-2426 🔄]
+  C4-->L1[⭐ PHYS-2425 🔄💟]-->L2[⭐ PHYS-2426 🔄]
   A-->G[KINE-1164 ✅]
   A-->H[ECON-2301 ✅]
   A-->I[ARTS-1301 ✅]
-  A-->J1[COSC-1301 ⁉️]-->J2[COSC-1436 ✅]-->J3[COSC-1437 🔄💟]-->J4[COSC-2436 🔄]
+  A-->J1[COSC-1301 ⁉️]-->J2[COSC-1436 ✅]-->J3[COSC-1437 ✅]-->J4[COSC-2436 🔄]
   J2-->J5[COSC-2425 🔄]
   A-->K[⭐ PHIL-1301 🔄]
 ```
