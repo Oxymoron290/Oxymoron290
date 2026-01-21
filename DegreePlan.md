@@ -70,6 +70,10 @@ gantt
     section Fall '22
     MATH‑2413            :done, 2022-08-22, 2022-12-09
     COSC‑1436            :done, 2022-08-22, 2022-12-09
+
+    section Fall '25
+    SPCH‑1321            :active, 2025-08-25, 2025-12-12
+    COSC‑1437            :active, 2025-08-25, 2025-12-12
 ```
 
 ```mermaid
@@ -77,10 +81,6 @@ gantt
     title TCC AA Coursework - Planned
     dateFormat  YYYY-MM-DD
     axisFormat  %Y-%m
-
-    section Fall '25
-    SPCH‑1321            :active, 2025-08-25, 2025-12-12
-    COSC‑1437            :active, 2025-08-25, 2025-12-12
 
     section Spring '26
     PHYS‑2425            :2026-01-12, 2026-05-07
