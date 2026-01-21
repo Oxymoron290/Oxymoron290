@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently empowering customers through Application Innovation at [Microsoft](https://microsoft.com/).
-- 🌱 I'm currently learning principles of electrical engineering.
+- 🌱 I'm currently studying Physics and Calculus at Tarrant County College.
 - ⚡ I'm engineering at [Microsoft](https://microsoft.com/).
 - 🤝 I’m looking to collaborate on anything related to Aviation, Manufacturing, or Logistics.
 - 🤸 Fun fact: I'm a licensed Amateur Radio Operator. My call sign is [N5OXY](https://www.qrz.com/db/n5oxy).
